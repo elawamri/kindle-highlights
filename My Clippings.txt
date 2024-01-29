@@ -83,3 +83,8 @@ Brandon Webb_ John David Mann - Mastering Fear_ A Navy Seal’s Guide-Portfolio 
 
 On day four, instead of sitting down poolside and carefully slipping into the water, he went running to the edge, launched himself in the air, and landed in the pool in a humongous cannonball. Huge splash, water everywhere—and
 ==========
+Algorithms to Live By_ The Computer Science of Human Decisions (Brian Christian)
+- Your Highlight on Location 415-417 | Added on Monday, January 29, 2024 10:34:04 PM
+
+Another domain where optimal stopping problems abound—and where looking back is also generally ill-advised—is the car. Motorists feature in some of the earliest literature on the secretary problem, and the framework of constant forward motion makes
+==========
